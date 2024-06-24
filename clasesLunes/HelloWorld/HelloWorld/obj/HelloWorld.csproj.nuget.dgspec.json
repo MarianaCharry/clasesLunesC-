@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SENA\\Documents\\clasesLunes\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\SENA\\Documents\\clasesLunesC-\\clasesLunes\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SENA\\Documents\\clasesLunes\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\SENA\\Documents\\clasesLunesC-\\clasesLunes\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENA\\Documents\\clasesLunes\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\SENA\\Documents\\clasesLunesC-\\clasesLunes\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\SENA\\Documents\\clasesLunes\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\SENA\\Documents\\clasesLunesC-\\clasesLunes\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENA\\Documents\\clasesLunes\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\SENA\\Documents\\clasesLunesC-\\clasesLunes\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",

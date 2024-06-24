@@ -1,0 +1,15 @@
+C:\Users\SENA\Documents\clasesLunesC-\clasesLunes\trabajoClases\trabajoClases\bin\Debug\net8.0\trabajoClases.exe
+C:\Users\SENA\Documents\clasesLunesC-\clasesLunes\trabajoClases\trabajoClases\bin\Debug\net8.0\trabajoClases.deps.json
+C:\Users\SENA\Documents\clasesLunesC-\clasesLunes\trabajoClases\trabajoClases\bin\Debug\net8.0\trabajoClases.runtimeconfig.json
+C:\Users\SENA\Documents\clasesLunesC-\clasesLunes\trabajoClases\trabajoClases\bin\Debug\net8.0\trabajoClases.dll
+C:\Users\SENA\Documents\clasesLunesC-\clasesLunes\trabajoClases\trabajoClases\bin\Debug\net8.0\trabajoClases.pdb
+C:\Users\SENA\Documents\clasesLunesC-\clasesLunes\trabajoClases\trabajoClases\obj\Debug\net8.0\trabajoClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\clasesLunesC-\clasesLunes\trabajoClases\trabajoClases\obj\Debug\net8.0\trabajoClases.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\clasesLunesC-\clasesLunes\trabajoClases\trabajoClases\obj\Debug\net8.0\trabajoClases.AssemblyInfo.cs
+C:\Users\SENA\Documents\clasesLunesC-\clasesLunes\trabajoClases\trabajoClases\obj\Debug\net8.0\trabajoClases.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\clasesLunesC-\clasesLunes\trabajoClases\trabajoClases\obj\Debug\net8.0\trabajoClases.sourcelink.json
+C:\Users\SENA\Documents\clasesLunesC-\clasesLunes\trabajoClases\trabajoClases\obj\Debug\net8.0\trabajoClases.dll
+C:\Users\SENA\Documents\clasesLunesC-\clasesLunes\trabajoClases\trabajoClases\obj\Debug\net8.0\refint\trabajoClases.dll
+C:\Users\SENA\Documents\clasesLunesC-\clasesLunes\trabajoClases\trabajoClases\obj\Debug\net8.0\trabajoClases.pdb
+C:\Users\SENA\Documents\clasesLunesC-\clasesLunes\trabajoClases\trabajoClases\obj\Debug\net8.0\trabajoClases.genruntimeconfig.cache
+C:\Users\SENA\Documents\clasesLunesC-\clasesLunes\trabajoClases\trabajoClases\obj\Debug\net8.0\ref\trabajoClases.dll
