@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\SENA\\Documents\\clasesLunesC-\\clasesLunes\\SecurityApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0D9DD6-FE54-4ABC-AB05-A096BADB4E8E}|Diagram\\Diagram.csproj|c:\\users\\sena\\documents\\claseslunesc-\\claseslunes\\securityapi\\diagram\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0D9DD6-FE54-4ABC-AB05-A096BADB4E8E}|Diagram\\Diagram.csproj|solutionrelative:diagram\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\clasesLunesC-\\clasesLunes\\SecurityApi\\Diagram\\Class1.cs",
+              "RelativeDocumentMoniker": "Diagram\\Class1.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\clasesLunesC-\\clasesLunes\\SecurityApi\\Diagram\\Class1.cs",
+              "RelativeToolTip": "Diagram\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:12:34.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
